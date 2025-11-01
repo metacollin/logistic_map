@@ -11,7 +11,7 @@ cmake ..
 make
 ```
 
-This will generate a png named `bifurcation.png`. Here is the example output (to get something else, modify constexpr settings in the source code and recompile):
+This will generate a png named `bifurcation.png`. Here is the example output (Note: image has been downscaled from original). To get something else, modify constexpr settings in the source code and recompile:
 ![logistic map][logistic_map]
 
 [logistic_map]: https://github.com/metacollin/logistic_map/raw/main/bifurcation.png "Logo Title Text 2"
